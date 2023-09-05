@@ -1,6 +1,7 @@
 #include<stdio.h>
 //comment1
 int main(){
-    printf("hello world"); return 0;
     int age = 22;
+    printf("age is %d \n",age);
+    return 0;
 }
